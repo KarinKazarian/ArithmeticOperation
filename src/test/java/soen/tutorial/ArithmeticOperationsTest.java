@@ -8,9 +8,9 @@ import static org.junit.Assert.fail;
 public class ArithmeticOperationsTest {
 
 
-// 	@Test
-// 	public void testAdd()
-// 	{
+	@Test
+	public void testAdd()
+	{
 
 		ArithmeticOperations operations = new ArithmeticOperations();
 		Integer actual = operations.addOrSub(2, 6);
